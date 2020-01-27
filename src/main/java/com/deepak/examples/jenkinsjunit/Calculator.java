@@ -39,5 +39,5 @@ public class Calculator implements ICalculator {
 		}
 
 		return result;
-	}
+	
 }
